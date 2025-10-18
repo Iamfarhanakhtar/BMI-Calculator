@@ -19,8 +19,10 @@ form.addEventListener("submit", (e) => {
       category = "Underweight";
     } else if (bmi >= 18.6 && bmi < 24.9) {
       category = "Normal Range";
-    } else {
+    } else if (bmi>=24.9 && bmi<30) {
       category = "Overweight";
+    } else {
+        category = "Obese";
     }
     result.innerHTML = `Your bmi is : ${bmi} (${category})`;
   }
