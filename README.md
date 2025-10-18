@@ -25,14 +25,7 @@ It allows users to input their height and weight, calculates their BMI, and disp
 - **CSS3** for styling and layout  
 - **JavaScript (Vanilla JS)** for calculation logic
 
----
 
-## 📸 Screenshot
-![BMI Calculator Preview](https://raw.githubusercontent.com/iamfarhanakhtar/BMI-Calculator/main/preview.png)
-
-*(You can upload your screenshot as `preview.png` in your repo to make this visible.)*
-
----
 
 ## 🧩 How to Use
 1. Enter your **height** in centimeters.  
