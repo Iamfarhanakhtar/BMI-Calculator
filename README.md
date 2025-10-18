@@ -45,6 +45,3 @@ It allows users to input their height and weight, calculates their BMI, and disp
 [GitHub](https://github.com/iamfarhanakhtar) | [LinkedIn](https://linkedin.com/in/iamfarhanakhtar)
 
 ---
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
